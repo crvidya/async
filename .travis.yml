@@ -7,7 +7,3 @@ scala:
 jdk:
   - oraclejdk6
   - openjdk7
-notifications:
-  email:
-    - jason.zaugg@typesafe.com
-    - philipp.haller@typesafe.com
